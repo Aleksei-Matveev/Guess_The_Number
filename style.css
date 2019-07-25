@@ -1,11 +1,13 @@
 body{
-    margin:  auto 0;
+    margin: 0px auto;
+    width: 428px;
+    
 }
 .panel{
-    width: 428px;
+    min-width: 428px;
 }
 .btn{
     width: 100px;
     height: 100px;
-    margin: 2px;
+   
 }
